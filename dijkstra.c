@@ -1,3 +1,5 @@
+//Tekwill in fiecare scoala
+
 #include <stdio.h>
 #include <stdbool.h>
 #include <stdlib.h>
