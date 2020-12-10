@@ -1,4 +1,5 @@
 //Tekwill in fiecare scoala
+//Invatam C
 
 #include <stdio.h>
 #include <stdbool.h>
